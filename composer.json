@@ -1,7 +1,11 @@
 {
-    "name": "vladbalmos/travelpsdk",
+    "name": "greevex/travelpsdk",
     "type": "library",
     "authors": [
+        {
+            "name": "Gregory Ostrovsky",
+            "email": "greevex@gmail.com"
+        },
         {
             "name": "Vlad Balmos"
         }
